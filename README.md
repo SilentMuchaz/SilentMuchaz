@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Python Keylogger](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Python Keylogger](https://github.com/SilentMuchaz/Python-Keylogger)
 
 <h2>Certifications</h2>
 
