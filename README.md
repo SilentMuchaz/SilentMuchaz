@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Python Keylogger](https://github.com/SilentMuchaz/Python-Keylogger)
-- [Caesar Cipher Program](https://github.com/SilentMuchaz/Python-Keylogger)
+- [Caesar Cipher Program](https://github.com/SilentMuchaz/Caesar-Cipher-Program)
 
 <h2>Certifications</h2>
 
