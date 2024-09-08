@@ -8,6 +8,7 @@ I'm pursuing a Master's in Cybersecurity, driven by a passion for securing digit
 - [Python Keylogger](https://github.com/SilentMuchaz/Python-Keylogger)
 - [Caesar Cipher Program](https://github.com/SilentMuchaz/Caesar-Cipher-Program)
 - [Firewall(UFW) Configuration](https://github.com/SilentMuchaz/Configure-a-Firewall-UFW-)
+- [Risk assessment project](https://github.com/SilentMuchaz/Risk-assessment-project)
 
 <h2>Certifications:</h2>
 
