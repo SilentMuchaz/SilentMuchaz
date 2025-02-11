@@ -3,12 +3,13 @@
 <h3>Introduction</h3>
 I'm pursuing a Master's in Cybersecurity, driven by a passion for securing digital spaces. With a background in computer science, I'm eager to tackle complex challenges and redefine digital security.
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻  Projects:</h2>
 
 - [Python Keylogger](https://github.com/SilentMuchaz/Python-Keylogger)
 - [Caesar Cipher Program](https://github.com/SilentMuchaz/Caesar-Cipher-Program)
 - [Firewall(UFW) Configuration](https://github.com/SilentMuchaz/Configure-a-Firewall-UFW-)
 - [Risk assessment project](https://github.com/SilentMuchaz/Risk-assessment-project)
+- [Virtual-Helpdesk-Simulation ](https://github.com/SilentMuchaz/Virtual-Helpdesk-Simulation)
 
 <h2>Certifications:</h2>
 
@@ -29,7 +30,7 @@ I'm pursuing a Master's in Cybersecurity, driven by a passion for securing digit
 
 
 [instagram]: https://www.instagram.com/_silento.m_/
-[linkedin]: https://www.linkedin.com/in/silent-tafadzwa-mucharira
+[linkedin]: https://www.linkedin.com/in/silent-mucharira
 
 <!--
 **SilentMuchaz/SilentMuchaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
