@@ -4,6 +4,15 @@
 Detail-oriented IT Support & Cybersecurity Professional with demonstrated expertise in troubleshooting, incident management, and user-centric technical support. Proven ability to resolve complex technical issues while enforcing security protocols (MFA, access controls, threat mitigation). Adept at maintaining critical documentation, ensuring SLA compliance, and collaborating with cross-functional teams to safeguard systems. Combines strong analytical thinking with security fundamentals to protect infrastructure and users—fluent English (C1) communicator with a focus on risk-aware problem-solving.
 
 
+### 🏅 Top Graduate Award  
+I was named **THE GRADUATE OF THE YEAR**!   
+**Official announcement by [University of Information Technology and Management in Rzeszow](https://en.uitm.edu.eu/)**  
+
+
+📰 [View full article on school website](https://en.uitm.edu.eu/news/graduation-ceremony-at-uitm/)  
+
+
+
 <h2>👨‍💻  Projects:</h2>
 
 - [Python Keylogger](https://github.com/SilentMuchaz/Python-Keylogger)
