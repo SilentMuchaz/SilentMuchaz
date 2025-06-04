@@ -5,7 +5,7 @@ Detail-oriented IT Support & Cybersecurity Professional with demonstrated expert
 
 
 ### 🏅 Top Graduate Award  
-I was named **THE GRADUATE OF THE YEAR (2024)**!   
+I was named **THE GRADUATE OF THE YEAR (2024)** !   
 **Official announcement by [University of Information Technology and Management in Rzeszow](https://en.uitm.edu.eu/)**  
 
 
