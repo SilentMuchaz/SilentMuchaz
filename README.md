@@ -1,7 +1,8 @@
 <h1>Hi, I'm SILENT!</h1>
 
 <h3>Introduction</h3>
-I'm pursuing a Master's in Cybersecurity, driven by a passion for securing digital spaces. With a background in computer science, I'm eager to tackle complex challenges and redefine digital security.
+Detail-oriented IT Support & Cybersecurity Professional with demonstrated expertise in troubleshooting, incident management, and user-centric technical support. Proven ability to resolve complex technical issues while enforcing security protocols (MFA, access controls, threat mitigation). Adept at maintaining critical documentation, ensuring SLA compliance, and collaborating with cross-functional teams to safeguard systems. Combines strong analytical thinking with security fundamentals to protect infrastructure and users—fluent English (C1) communicator with a focus on risk-aware problem-solving.
+
 
 <h2>👨‍💻  Projects:</h2>
 
