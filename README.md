@@ -26,8 +26,9 @@ Detail-oriented IT Support & Cybersecurity Professional with demonstrated expert
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="silent | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="silent | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="silent | LinkedIn" width="22px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />][linkedin]
+
+[<img align="left" alt="silent | Instagram" width="22px" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" />][instagram]
 
 
 [instagram]: https://www.instagram.com/_silento.m_/
