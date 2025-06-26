@@ -19,7 +19,8 @@ I was named **THE GRADUATE OF THE YEAR (2024)**!
 - [Caesar Cipher Program](https://github.com/SilentMuchaz/Caesar-Cipher-Program)
 - [Firewall(UFW) Configuration](https://github.com/SilentMuchaz/Configure-a-Firewall-UFW-)
 - [Risk assessment project](https://github.com/SilentMuchaz/Risk-assessment-project)
-- [Virtual-Helpdesk-Simulation ](https://github.com/SilentMuchaz/Virtual-Helpdesk-Simulation)
+- [Virtual-Helpdesk-Simulation](https://github.com/SilentMuchaz/Virtual-Helpdesk-Simulation)
+- [Cisco Switching Configuration (Networking)](https://github.com/SilentMuchaz/Cisco-Switching-Configuration)
 
 <h2>Certifications:</h2>
 
