@@ -21,6 +21,7 @@ I was named **THE GRADUATE OF THE YEAR (2024)**!
 - [Risk assessment project](https://github.com/SilentMuchaz/Risk-assessment-project)
 - [Virtual-Helpdesk-Simulation](https://github.com/SilentMuchaz/Virtual-Helpdesk-Simulation)
 - [Cisco Switching Configuration (Networking)](https://github.com/SilentMuchaz/Cisco-Switching-Configuration)
+- [Windows System Maintenance Script](https://github.com/SilentMuchaz/System-Maintenance-Script-Windows-Linux-)
 
 <h2>Certifications:</h2>
 
