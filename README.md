@@ -22,6 +22,7 @@ I was named **THE GRADUATE OF THE YEAR (2024)**!
 - [Virtual-Helpdesk-Simulation](https://github.com/SilentMuchaz/Virtual-Helpdesk-Simulation)
 - [Cisco Switching Configuration (Networking)](https://github.com/SilentMuchaz/Cisco-Switching-Configuration)
 - [Windows System Maintenance Script](https://github.com/SilentMuchaz/System-Maintenance-Script-Windows-Linux-)
+- [IT Support Knowledge Base (Notion Project)](https://github.com/SilentMuchaz/Notion-IT-Support-KB/tree/main)
 
 <h2>Certifications:</h2>
 
