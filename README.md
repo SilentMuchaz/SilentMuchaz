@@ -24,6 +24,7 @@ I was named **THE GRADUATE OF THE YEAR (2024)**!
 - [Small-Office-Home-Office-Network--SOHO Configuration (Networking)](https://github.com/SilentMuchaz/Design-and-Implementation-of-a-Small-Office-Home-Office-Network--SOHO)
 - [Windows System Maintenance Script](https://github.com/SilentMuchaz/System-Maintenance-Script-Windows-Linux-)
 - [IT Support Knowledge Base (Notion Project)](https://github.com/SilentMuchaz/Notion-IT-Support-KB/tree/main)
+- [Virtual Lab with Active Directory](https://github.com/SilentMuchaz/Active-Directory-Virtual-Lab-Windows-Server-2025-Windows-10-VirtualBox-Guide-)
 
 <h2>Certifications:</h2>
 
