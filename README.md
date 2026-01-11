@@ -25,6 +25,7 @@ I was named **THE GRADUATE OF THE YEAR (2024)**!
 - [Windows System Maintenance Script](https://github.com/SilentMuchaz/System-Maintenance-Script-Windows-Linux-)
 - [IT Support Knowledge Base (Notion Project)](https://github.com/SilentMuchaz/Notion-IT-Support-KB/tree/main)
 - [Virtual Lab with Active Directory](https://github.com/SilentMuchaz/Active-Directory-Virtual-Lab-Windows-Server-2025-Windows-10-VirtualBox-Guide-)
+- [Active-Directory-GPO-Project-Automated-Application-Launch](https://github.com/SilentMuchaz/Active-Directory-GPO-Project-Automated-Application-Launch)
 
 <h2>Certifications:</h2>
 
