@@ -15,6 +15,7 @@ I was named **THE GRADUATE OF THE YEAR (2024)**!
 
 <h2>👨‍💻  Projects:</h2>
 
+- [Email and Phishing Analysis](https://github.com/SilentMuchaz/Email-and-Phishing-Analysis)
 - [Python Keylogger](https://github.com/SilentMuchaz/Python-Keylogger)
 - [Caesar Cipher Program](https://github.com/SilentMuchaz/Caesar-Cipher-Program)
 - [Firewall(UFW) Configuration](https://github.com/SilentMuchaz/Configure-a-Firewall-UFW-)
