@@ -1,67 +1,89 @@
-<h1>Hi, I'm SILENT!</h1>
+# Hi, I'm Silent Mucharira 👋
 
-<h3>Introduction</h3>
-Detail-oriented IT Support & Cybersecurity Professional with demonstrated expertise in troubleshooting, incident management, and user-centric technical support. Proven ability to resolve complex technical issues while enforcing security protocols (MFA, access controls, threat mitigation). Adept at maintaining critical documentation, ensuring SLA compliance, and collaborating with cross-functional teams to safeguard systems. Combines strong analytical thinking with security fundamentals to protect infrastructure and users—fluent English (C1) communicator with a focus on risk-aware problem-solving.
+### 🛡️ Aspiring SOC Analyst | Cybersecurity & IT Support Professional
 
+I'm an MSc Cybersecurity graduate and **CompTIA Security+ certified professional** with practical experience in IT infrastructure, technical support, and cybersecurity fundamentals.
 
-### 🏅 Top Graduate Award  
-I was named **THE GRADUATE OF THE YEAR (2024)**!   
-**Official announcement by [University of Information Technology and Management in Rzeszow](https://en.uitm.edu.eu/)**  
+My interests include **Security Operations (SOC), threat detection, incident investigation, SIEM, and Windows security administration**.
 
+I continue developing my technical skills through hands-on cybersecurity labs, security investigations, and practical IT projects.
 
-📰 [View full article on school website](https://en.uitm.edu.eu/news/graduation-ceremony-at-uitm/)  
+🌐 **Portfolio:** [silentmucharira.com](https://silentmucharira.com)
 
+---
 
+## 🛠️ Technical Skills
 
-<h2>👨‍💻  Projects:</h2>
+- **Security Operations:** SIEM Fundamentals, Log Analysis, Threat Detection, Incident Triage, Phishing Investigation
+- **Security Tools:** Splunk, Microsoft Sentinel
+- **Systems & Administration:** Windows Server, Active Directory, Group Policy, Microsoft 365
+- **Networking & Security:** Network Monitoring, Firewalls, VPNs, DNS, DHCP
+- **Virtualization & Scripting:** Hyper-V, VirtualBox, Python
 
-- [Malware Analysis](https://github.com/SilentMuchaz/Malware-Analysis)
-- [Email and Phishing Analysis](https://github.com/SilentMuchaz/Email-and-Phishing-Analysis)
-- [Python Keylogger](https://github.com/SilentMuchaz/Python-Keylogger)
-- [Caesar Cipher Program](https://github.com/SilentMuchaz/Caesar-Cipher-Program)
-- [Firewall(UFW) Configuration](https://github.com/SilentMuchaz/Configure-a-Firewall-UFW-)
-- [Risk assessment project](https://github.com/SilentMuchaz/Risk-assessment-project)
-- [Virtual-Helpdesk-Simulation](https://github.com/SilentMuchaz/Virtual-Helpdesk-Simulation)
-- [Cisco Switching Configuration (Networking)](https://github.com/SilentMuchaz/Cisco-Switching-Configuration)
-- [Small-Office-Home-Office-Network--SOHO Configuration (Networking)](https://github.com/SilentMuchaz/Design-and-Implementation-of-a-Small-Office-Home-Office-Network--SOHO)
-- [Windows System Maintenance Script](https://github.com/SilentMuchaz/System-Maintenance-Script-Windows-Linux-)
-- [IT Support Knowledge Base (Notion Project)](https://github.com/SilentMuchaz/Notion-IT-Support-KB/tree/main)
-- [Virtual Lab with Active Directory](https://github.com/SilentMuchaz/Active-Directory-Virtual-Lab-Windows-Server-2025-Windows-10-VirtualBox-Guide-)
-- [Active-Directory-GPO-Project-Automated-Application-Launch](https://github.com/SilentMuchaz/Active-Directory-GPO-Project-Automated-Application-Launch)
+---
 
-<h2>Certifications:</h2>
+## 🔍 Featured Cybersecurity & IT Projects
 
-- [Google IT Support Professional](https://coursera.org/share/5c8a5cc3bd4922ca14b28063edf20312)
-- [Google Cybersecurity Professional](https://coursera.org/share/2521e7566e8decb3d3a5a1a7cf951c7b)
+### 🦠 Malware Analysis & Threat Investigation
 
-<h2>Digital Badges:</h2>
+Investigated malicious activity, evaluated potential security risks, and documented findings and response considerations.
 
-- [CISCO Network Technician Career Path](https://www.credly.com/badges/9fe4df8e-9df3-48cd-bf5d-5661adb8e1da/public_url)
-- [CISCO Junior Cybersecurity Analyst Career Path](https://www.credly.com/badges/07e8a2fa-3b1d-4b91-b9c4-14b1dff12e91/public_url)
+🔗 [View Project](INSERT_MALWARE_REPOSITORY_URL)
 
+### 🎣 Phishing Email Investigation
 
+Analyzed suspicious email characteristics and phishing indicators, documenting findings using security investigation and incident triage techniques.
 
-<h2> 🤳 Connect with me:</h2>
+🔗 [View Project](INSERT_PHISHING_REPOSITORY_URL)
 
-[<img align="left" alt="silent | LinkedIn" width="22px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />][linkedin]
+### 🖥️ Active Directory GPO — Automated Application Launch
 
-[<img align="left" alt="silent | Instagram" width="22px" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" />][instagram]
+Built a Windows Server 2025 Active Directory lab and configured a Group Policy Object (GPO) to automatically launch Microsoft Edge at user logon.
 
+🔗 [View Project](INSERT_GPO_REPOSITORY_URL)
 
-[instagram]: https://www.instagram.com/_silento.m_/
-[linkedin]: https://www.linkedin.com/in/silent-mucharira
+### 🏢 Active Directory Virtual Lab
 
-<!--
-**SilentMuchaz/SilentMuchaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Documented the configuration of a Windows Server and Windows client lab environment for practicing enterprise IT administration.
 
-Here are some ideas to get you started:
+🔗 [View Project](INSERT_AD_LAB_REPOSITORY_URL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📋 Cybersecurity Risk Assessment
+
+Explored cybersecurity risk identification and assessment through a practical project.
+
+🔗 [View Project](INSERT_RISK_ASSESSMENT_REPOSITORY_URL)
+
+**📂 [Explore All My GitHub Repositories](https://github.com/SilentMuchaz?tab=repositories)**
+
+---
+
+## 🎓 Certifications
+
+- 🛡️ **CompTIA Security+ ce**
+- 🔍 **TryHackMe Security Analyst Level 1 (SAL1)**
+- 🌐 **Cisco Certified Support Technician (CCST) Cybersecurity**
+- 🔐 **Google Cybersecurity Professional Certificate**
+- 💻 **Google IT Support Professional Certificate**
+
+---
+
+## 🏆 Honors & Awards
+
+### 🥇 Graduate of the Year — Class of 2024
+
+**University of Information Technology and Management in Rzeszów, Poland**
+
+Recognized as Graduate of the Year (Class of 2024) during my master's studies.
+
+---
+
+## 🤝 Connect With Me
+
+- 🌐 **Portfolio:** [silentmucharira.com](https://silentmucharira.com)
+- 💼 **LinkedIn:** [Silent Mucharira](https://www.linkedin.com/in/silent-mucharira)
+- 💻 **GitHub:** [SilentMuchaz](https://github.com/SilentMuchaz)
+
+---
+
+⭐ *Focused on developing practical cybersecurity skills and pursuing opportunities in SOC Analysis, Cybersecurity Analysis, and IT Support.*
