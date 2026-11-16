@@ -28,31 +28,31 @@ I continue developing my technical skills through hands-on cybersecurity labs, s
 
 Investigated malicious activity, evaluated potential security risks, and documented findings and response considerations.
 
-🔗 [View Project](INSERT_MALWARE_REPOSITORY_URL)
+🔗 [View Project](https://github.com/SilentMuchaz/Malware-Analysis)
 
 ### 🎣 Phishing Email Investigation
 
 Analyzed suspicious email characteristics and phishing indicators, documenting findings using security investigation and incident triage techniques.
 
-🔗 [View Project](INSERT_PHISHING_REPOSITORY_URL)
+🔗 [View Project](https://github.com/SilentMuchaz/Email-and-Phishing-Analysis)
 
 ### 🖥️ Active Directory GPO — Automated Application Launch
 
 Built a Windows Server 2025 Active Directory lab and configured a Group Policy Object (GPO) to automatically launch Microsoft Edge at user logon.
 
-🔗 [View Project](INSERT_GPO_REPOSITORY_URL)
+🔗 [View Project](https://github.com/SilentMuchaz/Active-Directory-GPO-Project-Automated-Application-Launch)
 
 ### 🏢 Active Directory Virtual Lab
 
 Documented the configuration of a Windows Server and Windows client lab environment for practicing enterprise IT administration.
 
-🔗 [View Project](INSERT_AD_LAB_REPOSITORY_URL)
+🔗 [View Project](https://github.com/SilentMuchaz/Active-Directory-Virtual-Lab-Windows-Server-2025-Windows-10-VirtualBox-Guide-)
 
 ### 📋 Cybersecurity Risk Assessment
 
 Explored cybersecurity risk identification and assessment through a practical project.
 
-🔗 [View Project](INSERT_RISK_ASSESSMENT_REPOSITORY_URL)
+🔗 [View Project](https://github.com/SilentMuchaz/Risk-assessment-project)
 
 **📂 [Explore All My GitHub Repositories](https://github.com/SilentMuchaz?tab=repositories)**
 
